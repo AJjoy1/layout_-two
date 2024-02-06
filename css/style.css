@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(53, 133, 133);
+    color: brown;
+    text-align: center;
+    height: 100px;
+}
+.banner{
+    background-color: blueviolet;
+    color: black;
+    text-align: center;
+    height: 500;
+    font-size: 100px;
+}
+.service{
+display: flex;
+}
+.left_side{
+width: 50%;
+height: 400px;
+background-color: chartreuse;
+}
+.right_side{
+    width: 50%;
+    height: 400px;
+    background-color: rgb(55, 0, 255);
+}
+.top{
+
+    height:50% ;
+    background-color: red;
+
+}
+.bottom{
+    height: 50%;
+    background-color: brown;
+}
+.footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    height: 80px;
+}
